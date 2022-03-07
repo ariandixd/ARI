@@ -1,6 +1,6 @@
 # SEBUAH TOOLS UNTTUK KREK AKUN IG:V
 
-$ pkg update && pkg upgrade
+$ pkg update && pkg upagrade
 
 $ pip install requests bs4 mechanize
 
