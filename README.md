@@ -16,4 +16,6 @@ $ python ARI.py
 
 
 
-Note: gw ga bertanggung jawab atas apapun yang terjadi!!!
+# NOTE: GW GA BERTANGGUNG JAWAB ATAS APAPUN YANG TERJADI!!!
+
+# SCRIPT INI GRATIS! JANGAN MAU BELI KE SIAPA PUN!!
