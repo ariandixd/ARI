@@ -12,7 +12,7 @@ $ cd ARI
 
 $ git pull
 
-$ python ARII.py
+$ python ARI.py
 
 
 
