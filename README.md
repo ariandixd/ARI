@@ -1,18 +1,15 @@
 # SEBUAH TOOLS UNTTUK KREK AKUN IG:V
 
-$ pkg update && pkg upagrade
+$ Lagi update sabar ye:V
 
-$ pip install requests bs4 mechanize
 
-$ pip install stdiomask
 
-$ git clone https://github.com/ariandixd/ARI
 
-$ cd ARI
 
-$ git pull
 
-$ python ARI.py
+
+
+
 
 
 
