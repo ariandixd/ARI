@@ -10,6 +10,8 @@ $ git clone https://github.com/ariandixd/ARI
 
 $ pip install requests mechanize
 
+$ pip install requests bs4
+
 $ pip install stdiomask
 
 $ cd ARI
