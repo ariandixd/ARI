@@ -1,5 +1,7 @@
 # SEBUAH TOOLS UNTTUK KREK AKUN IG:V
 
+Jalankan Perintah Di Bawah:
+
 $ rm -rf ARI
 
 $ pkg update && pkg upgrade -y
