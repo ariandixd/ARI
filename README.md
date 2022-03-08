@@ -1,17 +1,22 @@
 # SEBUAH TOOLS UNTTUK KREK AKUN IG:V
 
-$ Lagi update sabar ye:V
+$ rm -rf ARI
 
+$ pkg update && pkg upgrade -y
 
+$ pkg install python git -y
 
+$ git clone https://github.com/ariandixd/ARI
 
+$ pip install requests mechanize
 
+$ pip install stdiomask
 
+$ cd ARI
 
+$ git pull
 
-
-
-
+$ python ARI.py
 
 # NOTE: GW GA BERTANGGUNG JAWAB ATAS APAPUN YANG TERJADI!!!
 
